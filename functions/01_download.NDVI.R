@@ -1,4 +1,4 @@
-ownload.NDVI <- function(URL) {
+download.NDVI <- function(URL) {
   
   # Wrap function in an if/else loop that checks if the URL is valid
   if (length(URL) == 1 & is.character(URL) & substr(URL,1,4)=="http") {
