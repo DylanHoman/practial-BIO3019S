@@ -3,6 +3,8 @@ title: "README"
 output: rmarkdown::github_document
 ---
 
+Emma Beth
+
 # Practical output:  Master script
 
 ## Source functions, get data and plot
